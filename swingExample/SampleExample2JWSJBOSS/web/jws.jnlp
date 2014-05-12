@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/SampleExample2JWSJBOSS/" href="jws.jnlp">
+
+	<information>
+		<title>Mon Logiciel par JNLP</title>
+		<vendor>Johann Sorel</vendor>
+		
+	</information>
+
+	<resources>
+		<j2se version="1.5+" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="SwingExample2.jar"  main="true"/>
+	</resources>
+
+	<application-desc main-class="org.imie.swingexample2.SwingExample2" />
+
+</jnlp>

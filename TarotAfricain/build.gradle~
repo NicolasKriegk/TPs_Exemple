@@ -1,0 +1,26 @@
+version = '1.0.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'war'
+sourceCompatibility  = 1.6
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+        resources {
+            srcDir 'src'
+        }
+    }  
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.jboss.spec.javax.jms:jboss-jms-api_1.1_spec:1.0.1.Final'
+    compile 'org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec:1.0.0.Final'
+    
+} 

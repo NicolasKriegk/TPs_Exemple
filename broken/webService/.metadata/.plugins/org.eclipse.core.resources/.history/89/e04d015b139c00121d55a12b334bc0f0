@@ -1,0 +1,6 @@
+package org.imie.clientsample;
+
+import org.imie.*;
+
+public class ClientSample {
+}

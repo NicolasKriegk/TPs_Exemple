@@ -1,0 +1,26 @@
+package org.imie.DTO;
+
+import javax.xml.bind.annotation.XmlAttribute;
+import javax.xml.bind.annotation.XmlElement;
+
+
+
+public class SecondServiceBean {
+	XmlAttribute(name="value")
+	private String value;
+
+	public String getValue() {
+		return value;
+	}
+
+	public void setValue(String value) {
+		this.value = value;
+	}
+
+	@Override
+	public String toString() {
+		return "SecondServiceBean [value=" + value + "]";
+	}
+	
+	
+}

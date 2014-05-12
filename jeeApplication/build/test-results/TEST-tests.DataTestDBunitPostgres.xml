@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="tests.DataTestDBunitPostgres" tests="3" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="imie-VirtualBox" time="1.37061641361E9">
+  <properties/>
+  <testcase name="testDelete" classname="tests.DataTestDBunitPostgres" time="1.216"/>
+  <testcase name="testInsert" classname="tests.DataTestDBunitPostgres" time="0.085"/>
+  <testcase name="testSelect" classname="tests.DataTestDBunitPostgres" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (org.dbunit.DatabaseTestCase).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class basicService {
+	
+	public List<String> executeService(){
+		List<String> retour = new ArrayList<String>();
+		retour.add("un");
+		retour.add("deux");
+		return retour;
+	}
+
+}

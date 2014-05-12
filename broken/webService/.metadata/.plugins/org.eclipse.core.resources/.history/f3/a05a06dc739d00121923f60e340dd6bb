@@ -1,0 +1,7 @@
+package org.jboss.samples.webservices;
+
+import javax.jws.WebMethod;
+
+@WebService()
+public class HelloWorld {
+}

@@ -1,0 +1,5 @@
+package org.jboss.samples.webservices;
+
+@Path("/HelloWorld")
+public class HelloWorld {
+}

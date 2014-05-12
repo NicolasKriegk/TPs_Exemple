@@ -1,0 +1,15 @@
+package org.imie;
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class BasicService {
+	
+	public List<String> executeService(){
+		List<String> retour = new ArrayList<String>();
+		retour.add("un");
+		retour.add("deux");
+		return retour;
+	}
+
+}

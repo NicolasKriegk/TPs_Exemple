@@ -1,0 +1,8 @@
+INDEX VERSION 1.122+/home/imie/formation/dev/IDE/workspace/webService/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+743930496.index
+826619112.index
+2977868579.index
+705753213.index
+2320625314.index
+2295795812.index
+430538884.index

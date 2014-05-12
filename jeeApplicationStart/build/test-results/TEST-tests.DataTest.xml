@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="tests.DataTest" tests="3" failures="0" errors="0" timestamp="2013-06-05T03:52:32" hostname="imie-VirtualBox" time="0.561">
+  <properties/>
+  <testcase name="testDelete" classname="tests.DataTest" time="0.428"/>
+  <testcase name="testInsert" classname="tests.DataTest" time="0.091"/>
+  <testcase name="testSelect" classname="tests.DataTest" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

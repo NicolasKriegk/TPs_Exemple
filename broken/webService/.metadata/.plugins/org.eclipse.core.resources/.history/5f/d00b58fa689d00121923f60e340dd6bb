@@ -1,0 +1,19 @@
+package org.jboss.samples.rs.webservices;
+
+import javax.naming.InitialContext;
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+import org.imie.DTO.InitialServiceBean;
+
+@Path("/MyRESTApplication")
+public class HelloWorldResource {
+
+	@GET()
+	@Produces("text/plain")
+	public InitialServiceBean sayHello() {
+	    InitialServiceBean initialServiceBean =  new InitialServiceBean();
+		return "Hello World!";
+	}
+}

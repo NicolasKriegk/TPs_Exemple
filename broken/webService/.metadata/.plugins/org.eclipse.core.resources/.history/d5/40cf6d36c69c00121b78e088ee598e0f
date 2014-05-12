@@ -1,0 +1,4 @@
+package org.jboss.samples.rs.webservices;
+
+public class MyRESTApplication extends Application {
+}

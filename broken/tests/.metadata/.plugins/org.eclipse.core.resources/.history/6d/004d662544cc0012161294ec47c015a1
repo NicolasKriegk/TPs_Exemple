@@ -1,0 +1,25 @@
+package test.java;
+
+import static org.junit.Assert.*;
+import static org.hamcrest.CoreMatchers.*;
+import main.java.Jeu;
+
+import org.junit.Test;
+
+public class TennisTests {
+
+	@Test
+	public void testInitialisationNouveauJeu() {
+		new Jeu();
+	}
+
+	@Test
+	public void AfficherScoreDebutDePartie() {
+		Jeu jeu = new Jeu();
+		
+		assertThat(jeu.score(), equalTo("0-0"));
+	}
+
+
+
+}

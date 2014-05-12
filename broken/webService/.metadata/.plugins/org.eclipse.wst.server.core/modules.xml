@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:RestTestApplication" serverId="JBoss 7.1 Runtime Server1364958622565"/>
+  <module moduleId="org.eclipse.jst.jee.server:wsServer" serverId="JBoss 7.1 Runtime Server1364958622565"/>
+</modules>

@@ -1,0 +1,95 @@
+package org.imie.mvc;
+
+import java.nio.charset.Charset;
+import java.text.MessageFormat;
+import java.util.Scanner;
+
+import com.googlecode.lanterna.TerminalFacade;
+import com.googlecode.lanterna.terminal.Terminal;
+
+public class Vue {
+	public class RefreshThread implements Runnable {
+		public Boolean activ = true;
+
+		@Override
+		public void run() {
+			while (activ) {
+				try {
+					Thread.sleep(1000);
+				} catch (InterruptedException e) {
+					throw new RuntimeException(e);
+				}
+				affichage();
+			}
+		}
+	}
+
+	private Model model;
+	private Controller controller;
+
+	private RefreshThread thread = new RefreshThread();
+	private Scanner scanIn = new Scanner(System.in);
+
+	private Terminal terminal;
+
+	public void affichage() {
+
+		//System.out.print("\033[2J\033[;H");
+		terminal.clearScreen();
+		MessageFormat formater = new MessageFormat(
+				"{0,number,00} : {1,number,00} : {2,number,00}");
+		Object[] data = { model.getHeure(), model.getMinute(),
+				model.getSecond() };
+		formater.format(data);
+		System.out.println(formater.format(data));
+
+		// String toto = scanIn.nextLine();
+
+	}
+
+	public Vue() {
+		super();
+		terminal = TerminalFacade.createTerminal();
+	    terminal.applyForegroundColor(Terminal.Color.RED);
+	    terminal.enterPrivateMode();
+
+	    System.out.print('c');
+	    terminal.flush();
+	    //terminal.exitPrivateMode();
+
+
+		Thread t = new Thread(thread);
+		t.start();
+	}
+
+	/**
+	 * @return the model
+	 */
+	public Model getModel() {
+		return model;
+	}
+
+	/**
+	 * @param model
+	 *            the model to set
+	 */
+	public void setModel(Model model) {
+		this.model = model;
+	}
+
+	/**
+	 * @return the controller
+	 */
+	public Controller getController() {
+		return controller;
+	}
+
+	/**
+	 * @param controller
+	 *            the controller to set
+	 */
+	public void setController(Controller controller) {
+		this.controller = controller;
+	}
+
+}

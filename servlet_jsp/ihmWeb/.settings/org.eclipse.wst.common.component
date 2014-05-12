@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ihmWeb">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="postgresql-9.1-903.jdbc4.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//mnt/data/formation/dev/servers/libs/postgresql-9.1-903.jdbc4.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="icompetence.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/icompetence/icompetence">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="ihmWeb"/>
+        <property name="java-output-path" value="/ihmWeb/build/classes"/>
+    </wb-module>
+</project-modules>

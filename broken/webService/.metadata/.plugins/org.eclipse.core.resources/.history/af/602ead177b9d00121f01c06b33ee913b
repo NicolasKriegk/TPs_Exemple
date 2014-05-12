@@ -1,0 +1,7 @@
+package org.jboss.samples.webservices;
+
+import javax.ws.rs.Produces;
+
+@Path("/HelloWorld")
+public class HelloWorld {
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+  <context-root>/SampleExample2JWSJBOSS</context-root>
+</jboss-web>

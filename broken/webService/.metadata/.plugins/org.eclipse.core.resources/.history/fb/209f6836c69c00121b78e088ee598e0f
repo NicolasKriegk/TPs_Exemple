@@ -1,0 +1,9 @@
+package org.jboss.samples.rs.webservices;
+
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("/MyRESTApplication")
+public class HelloWorldResource {
+}

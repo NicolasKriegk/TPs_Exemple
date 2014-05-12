@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+
+.celluleTableau {
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	vertical-align: middle;
+}
+
+.celluleTableauInLine {
+	display: inline-block;
+}
+
+.celluleTableauInTable {
+	display: table-cell;
+}
+
+.celluleTableau100 {
+	width: 100px;
+}
+
+.celluleTableau200 {
+	width: 200px;
+}
+
+.iconLink {
+	background-image: url(edit_trans.png);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-sizel: cover;
+	background-size: cover;
+	display: block;
+	width: 40px;
+	height: 40px;
+}
+
+.iconREtour {
+	background-image: url(retour.png);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-sizel: cover;
+	background-size: cover;
+	display: block;
+	width: 40px;
+	height: 40px;
+}
+
+.celluleTableauLabel {
+	background-color: silver;
+	text-align: right;
+}
+
+.ligneTableauLine {
+	display: table-row;
+}
+
+.ligneTableauNormalLine {
+	background-color: white;
+}
+
+.ligneTableauAlternativLine {
+	background-color: silver;
+}
+
+.tableau {
+	display: table;
+	width: 100%;
+}
+
+.ligneTableauHeader {
+	display: table-row;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+
+.tableauContainer {
+	border-radius: 0px 10px 0px 10px;
+	border-style: solid;
+	overflow: auto;
+	width: 80%;
+	margin: auto;
+}

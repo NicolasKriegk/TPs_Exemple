@@ -1,0 +1,81 @@
+package testXMLConsume;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.StringWriter;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.ProtocolException;
+import java.net.URL;
+
+import javax.xml.transform.Source;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.stream.StreamResult;
+import javax.xml.transform.stream.StreamSource;
+
+public class ConsumerMain {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		try {
+			URL url = new URL(
+					"http://localhost:8080/RestTestApplication/serviceInitiale");
+			HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+			conn.setRequestMethod("GET");
+			conn.setRequestProperty("Accept", "application/xml");
+			BufferedReader br = new BufferedReader(new InputStreamReader(
+					(conn.getInputStream())));
+
+//			String output;
+//			System.out.println("Output from Server .... \n");
+//			while ((output = br.readLine()) != null) {
+//				System.out.println(output);
+//			}
+
+			
+
+
+			Source xmlSource = new StreamSource(conn.getInputStream());
+			
+			//Source xmlSource = new StreamSource(new File("src/NewFile.xml"));
+			Source xsltSource = new StreamSource(new File("src/beanTransform.xslt"));
+			StringWriter sw=new StringWriter();  
+			StreamResult out = new StreamResult(sw);  
+
+			Result result = new StreamResult(System.out);
+
+			TransformerFactory transFact = TransformerFactory.newInstance();
+			Transformer trans = transFact.newTransformer(xsltSource);
+			trans.transform(xmlSource, result);
+			System.out.println("");
+			System.out.println(result.ge);
+			
+			conn.disconnect();
+
+		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ProtocolException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (TransformerConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (TransformerException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+}

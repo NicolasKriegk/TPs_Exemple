@@ -1,0 +1,29 @@
+package test.java;
+
+import static org.junit.Assert.*;
+import main.java.Jeu;
+
+import org.hamcrest.Matcher;
+import org.hamcrest.core.IsEqual;
+import org.junit.Test;
+
+public class TennisTests {
+
+	@Test
+	public void testInitialisationNouveauJeu() {
+		new Jeu();
+	}
+
+	@Test
+	public void testAfficherScoreDebutDePartie() {
+		Jeu jeu = new Jeu();
+		
+		assertThat(jeu.score(), is("0-0"));
+	}
+
+	private Matcher<Object> is(String string) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

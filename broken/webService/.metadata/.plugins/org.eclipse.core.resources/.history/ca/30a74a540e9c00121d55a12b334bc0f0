@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions name="BasicServiceService" targetNamespace="http://imie.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://imie.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+  <wsdl:types>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+  <import namespace="http://imie.org/" schemaLocation="BasicServiceService_schema1.xsd"/>
+</schema>
+  </wsdl:types>
+  <wsdl:message name="executeService">
+    <wsdl:part name="parameters" element="tns:executeService">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="executeServiceResponse">
+    <wsdl:part name="parameters" element="tns:executeServiceResponse">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="BasicService">
+    <wsdl:operation name="executeService">
+      <wsdl:input name="executeService" message="tns:executeService">
+    </wsdl:input>
+      <wsdl:output name="executeServiceResponse" message="tns:executeServiceResponse">
+    </wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicServiceServiceSoapBinding" type="tns:BasicService">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="executeService">
+      <soap:operation soapAction="" style="document"/>
+      <wsdl:input name="executeService">
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="executeServiceResponse">
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="BasicServiceService">
+    <wsdl:port name="BasicServicePort" binding="tns:BasicServiceServiceSoapBinding">
+      <soap:address location="//localhost:8080/wsServer/BasicService"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

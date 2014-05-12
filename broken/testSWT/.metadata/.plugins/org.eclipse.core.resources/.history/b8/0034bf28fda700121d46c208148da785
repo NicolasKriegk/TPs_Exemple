@@ -1,0 +1,22 @@
+package org.imie;
+
+public class launcher {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Display display = new Display ();
+		Shell shell = new Shell (display);
+		shell.setLayout(new FillLayout(SWT.VERTICAL));
+		new LabelText(shell, "Saisissez le nom", "");
+		shell.pack ();
+		shell.open ();
+		while (!shell.isDisposed ()) {
+		if (!display.readAndDispatch ()) display.sleep ();
+		}
+		display.dispose ();
+
+	}
+
+}

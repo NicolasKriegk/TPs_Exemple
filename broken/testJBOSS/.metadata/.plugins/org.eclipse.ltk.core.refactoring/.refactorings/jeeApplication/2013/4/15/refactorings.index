@@ -1,0 +1,6 @@
+1365979872064	Rename type 'DataBaseConnexion'
+1365981022071	Convert local variable 'dataSource' to field
+1365981038172	Convert local variable 'connection' to field
+1365981053565	Convert local variable 'stmt' to field
+1365981083846	Extract method 'initStatement'
+1365981126765	Extract method 'closeStatement'

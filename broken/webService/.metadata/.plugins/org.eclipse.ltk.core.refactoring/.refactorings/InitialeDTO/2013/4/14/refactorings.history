@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;org.imie.DTO&apos; to &apos;RestTestApplication/src/org.jboss.samples.webservices&apos;&#x0A;- Original project: &apos;InitialeDTO&apos;&#x0A;- Destination element: &apos;RestTestApplication/src/org.jboss.samples.webservices&apos;&#x0A;- Original element: &apos;InitialeDTO/src/org.imie.DTO&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=RestTestApplication/src&lt;org.jboss.samples.webservices" element1="/src&lt;org.imie.DTO" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1365129664879" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package org.jboss.samples.webservices;
+
+@WebService()
+public class HelloWorld {
+}

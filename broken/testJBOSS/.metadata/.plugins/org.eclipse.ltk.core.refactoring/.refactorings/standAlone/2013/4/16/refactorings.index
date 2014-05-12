@@ -1,0 +1,5 @@
+1366332945737	Move 1 resources to 'java'
+1366333285069	Rename type 'DataBaseSourceJNDI'
+1366336948414	Rename type 'JMSProviderJNDIStandAlone'
+1366337083871	Copy compilation unit
+1366337866930	Rename type 'CopyOfJMSExecutorMessageQueue'

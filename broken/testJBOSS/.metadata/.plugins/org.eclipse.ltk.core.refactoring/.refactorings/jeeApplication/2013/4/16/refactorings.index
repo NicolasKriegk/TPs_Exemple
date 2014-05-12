@@ -1,0 +1,17 @@
+1365984924480	Extract method 'extracted'
+1365985404458	Convert local variable 'dataBaseSource' to field
+1365985568137	Extract method 'buildSelectCommand'
+1365985919662	Extract interface 'IDataBaseSource'
+1365985992815	Rename type 'DataBaseSource'
+1365986056596	Copy compilation unit
+1365986569936	Change method 'getDataSource'
+1365988281144	Delete element
+1365989172358	Rename method 'extracted'
+1366276309495	Copy compilation units
+1366280314982	Copy compilation units
+1366280545912	Copy compilation unit
+1366333977610	Copy compilation unit
+1366334241465	Copy compilation unit
+1366337604724	Copy compilation unit
+1366338655259	Extract method 'execute'
+1366338796042	Rename type 'jmsExecutor'

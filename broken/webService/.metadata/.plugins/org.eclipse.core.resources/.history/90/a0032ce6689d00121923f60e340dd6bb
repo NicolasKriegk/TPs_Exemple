@@ -1,0 +1,17 @@
+package org.jboss.samples.rs.webservices;
+
+import javax.naming.InitialContext;
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("/MyRESTApplication")
+public class HelloWorldResource {
+
+	@GET()
+	@Produces("text/plain")
+	public InitialContext sayHello() {
+	    InitialContext initialContext = new InitialContext();
+		return "Hello World!";
+	}
+}

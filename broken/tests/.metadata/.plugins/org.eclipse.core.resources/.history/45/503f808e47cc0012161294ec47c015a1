@@ -1,0 +1,28 @@
+package main.java;
+
+public class Jeu {
+	
+	public Integer scoreJoueur1;
+
+	public String score() {
+		String scoreTextJoueur1 = "0";
+		if (scoreJoueur1==0){
+			scoreTextJoueur1="0";
+		}else if(scoreJoueur1==1){
+			scoreTextJoueur1="15";
+		}else if(scoreJoueur1==2){
+			scoreTextJoueur1="30";
+		}
+		return scoreTextJoueur1.concat("-0");
+	}
+
+	public Jeu() {
+		super();
+		scoreJoueur1=0;
+	}
+
+	public void joueur1Marque() {
+		scoreJoueur1++;	
+	}
+
+}

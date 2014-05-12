@@ -1,0 +1,1968 @@
+!SESSION 2013-04-01 18:15:55.687 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-01 18:22:10.482
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-01 18:22:26.931
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-01 18:25:27.133
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 18:25:27.431
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 18:25:27.433
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 18:25:27.434
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 18:25:39.018
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-01 18:25:44.206
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-01 18:25:55.500
+!MESSAGE Server Startup Succeeded
+!SESSION 2013-04-01 22:31:10.946 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 22:32:47.962
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-01 22:32:54.453
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-01 22:33:10.961
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-01 23:18:12.068
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 23:18:12.621
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 23:18:12.627
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 23:18:12.630
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-01 23:25:14.303 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:25:38.980
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-01 23:25:45.604
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-01 23:25:56.816
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:30:55.985
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:31:30.861
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:33:32.473
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:34:43.411
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:35:02.941
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:35:42.385
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:36:05.760
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-01 23:39:11.162
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-01 23:40:02.411
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 23:40:02.999
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 23:40:03.005
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-01 23:40:03.005
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-01 23:40:08.165
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-01 23:40:19.235
+!MESSAGE Server Startup Succeeded
+!SESSION 2013-04-02 03:40:12.567 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:11:16.026
+!MESSAGE 4 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:11:22.753
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:11:34.170
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:17:21.002
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:19:02.955
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:19:10.030
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:19:10.606
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:19:10.609
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:19:10.609
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:19:15.676
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:19:27.048
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:19:52.236
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:19:54.938
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:19:55.296
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:19:55.296
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:19:55.296
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:20:00.336
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:20:11.704
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:27:34.052
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:27:39.883
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:27:44.451
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:27:44.854
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:27:44.855
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:27:44.855
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:27:49.902
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:28:01.065
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:28:58.614
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:31:12.105
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:31:17.545
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:31:17.942
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:31:17.942
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:31:17.942
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:31:22.983
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:31:34.503
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:32:12.826
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:32:13.495
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:32:13.495
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:32:13.495
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:32:18.525
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:32:29.424
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:33:03.039
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:33:06.024
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:33:06.720
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:33:06.730
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:33:06.730
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:33:11.755
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:33:22.708
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:34:35.258
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:35:07.108
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:35:32.668
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:35:35.641
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:35:36.359
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:35:36.361
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:35:36.361
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:35:41.417
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:35:52.297
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:36:32.294
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:36:35.522
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:36:36.232
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:36:36.245
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:36:36.245
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 04:36:41.270
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 04:36:52.224
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 04:38:20.390
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 04:39:57.070
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:39:57.542
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:39:57.547
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 04:39:57.547
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-02 12:05:26.690 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:28:31.938
+!MESSAGE 5 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:28:37.864
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:28:49.182
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:31:04.494
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:31:10.680
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:31:11.003
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:31:11.004
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:31:11.004
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:31:16.078
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:31:27.135
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:42:09.610
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:42:59.425
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:42:59.755
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:42:59.755
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:42:59.755
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:43:04.814
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:43:15.782
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:43:39.205
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:43:47.595
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:44:00.006
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:44:00.643
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:44:00.644
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:44:00.644
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:44:05.680
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:44:16.847
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:45:53.623
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:46:06.730
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:46:07.027
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:46:07.027
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:46:07.027
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:46:12.078
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:46:23.034
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:47:11.540
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:47:11.846
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:47:11.849
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:47:11.849
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:47:16.886
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:47:28.157
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:49:41.647
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:49:45.497
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:49:45.825
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:49:45.826
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:49:45.826
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:49:50.866
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:50:02.049
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:50:47.592
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:50:57.251
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:51:02.097
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:51:02.720
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:51:02.723
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:51:02.723
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:51:07.772
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:51:18.821
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:52:06.258
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:52:12.118
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 14:52:17.609
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:52:20.980
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:52:22.263
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:52:22.264
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:52:22.264
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:52:27.324
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:52:38.303
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 14:54:31.973
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:54:32.310
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:54:32.313
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 14:54:32.314
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 14:54:37.340
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 14:54:48.614
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:09:27.879
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:09:53.572
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:10:07.257
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:10:49.908
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:10:54.345
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:11:05.938
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:11:20.204
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:11:40.221
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:11:53.970
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:12:07.812
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 15:12:14.666
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:12:14.983
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:12:14.984
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:12:14.984
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 15:12:20.035
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 15:12:31.108
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 15:36:39.483
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:36:39.789
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:36:39.790
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:36:39.790
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 15:36:44.832
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 15:36:55.759
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 15:40:17.950
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:40:18.602
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:40:18.604
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:40:18.604
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 15:40:23.674
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 15:40:34.740
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:40:44.701
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:41:25.181
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:41:36.193
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 15:41:55.439
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:41:56.081
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:41:56.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:41:56.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 15:42:01.124
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 15:42:12.108
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:42:43.282
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:43:03.264
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 15:48:56.215
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:48:56.567
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:48:56.568
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:48:56.568
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 15:49:01.606
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 15:49:12.663
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:50:18.512
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 15:50:22.740
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:50:23.420
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:50:23.420
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 15:50:23.420
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 15:50:28.472
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 15:50:40.023
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 15:53:15.859
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 16:33:59.736
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 16:36:39.462
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 16:36:43.562
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 16:37:46.224
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 16:37:58.178
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 16:37:58.495
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 16:37:58.498
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 16:37:58.498
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 16:38:03.545
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 16:38:14.804
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-02 16:39:27.143
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 16:39:27.771
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 16:39:27.771
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 16:39:27.771
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-02 16:39:32.824
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-02 16:39:43.721
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 16:40:48.357
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-02 16:40:48.873
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 17:31:29.175
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 17:31:29.258
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-02 17:31:29.259
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-03 01:06:23.790 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:20:03.093
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-03 01:20:09.724
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-03 01:20:21.459
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:21:30.146
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:23:22.454
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:23:38.802
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:23:54.084
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-03 01:23:59.010
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:23:59.446
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:23:59.457
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:23:59.457
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-03 01:24:04.551
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-03 01:24:15.417
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:25:17.709
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:25:48.202
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:25:50.602
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:25:56.643
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:26:05.310
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:26:26.912
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:27:21.903
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-03 01:27:27.680
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:27:28.247
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:27:28.262
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:27:28.262
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-03 01:27:33.295
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-03 01:27:44.251
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:28:57.658
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:29:21.752
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-03 01:29:34.788
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:29:35.160
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:29:35.165
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:29:35.165
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-03 01:29:40.211
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-03 01:29:51.201
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-03 01:30:12.928
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-03 01:30:19.014
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:30:19.674
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:30:19.683
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:30:19.683
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-03 01:30:24.728
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-03 01:30:35.921
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-03 01:33:27.137
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:33:27.523
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:33:27.524
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 01:33:27.524
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-03 01:59:11.336
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-03 01:59:22.313
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-03 02:11:06.355
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 02:11:06.839
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 02:11:06.849
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-03 02:11:06.849
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-14 22:21:24.957 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:16:53.033
+!MESSAGE 10 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 02:16:59.438
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 02:17:12.488
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:20:46.622
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 02:20:59.024
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:20:59.537
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:20:59.539
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:20:59.539
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 02:21:04.630
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 02:21:16.401
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 02:22:20.658
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:22:21.485
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:22:21.498
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:22:21.498
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:27:48.293
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 02:27:53.368
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 02:28:04.343
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:28:56.154
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:29:11.211
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 02:29:23.559
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:29:24.041
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:29:24.042
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:29:24.042
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 02:29:29.147
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 02:29:40.213
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:32:01.454
+!MESSAGE 6 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:32:41.092
+!MESSAGE 5 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:32:55.648
+!MESSAGE 5 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:33:14.705
+!MESSAGE 5 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:34:18.142
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:38:49.377
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:41:43.532
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:42:51.485
+!MESSAGE 4 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:42:57.769
+!MESSAGE 4 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:43:08.262
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:43:17.040
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:43:27.336
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:43:33.750
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:43:51.848
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:44:02.991
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:44:18.556
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:44:30.140
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:45:04.546
+!MESSAGE 14 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:45:15.540
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:45:30.884
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:45:46.815
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:45:57.806
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:46:44.182
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:47:02.389
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:47:11.246
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:47:42.761
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:47:52.111
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:48:01.930
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:52:30.343
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:52:52.159
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:53:08.168
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:55:10.791
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:55:25.756
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 02:55:49.773
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:55:50.224
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:55:50.225
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:55:50.225
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 02:55:55.417
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 02:56:06.277
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:57:36.268
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:58:20.793
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:58:33.656
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 02:59:43.329
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 02:59:46.170
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:59:46.885
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:59:46.885
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 02:59:46.885
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 02:59:51.927
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 03:00:02.891
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 03:00:48.478
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:00:49.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:00:49.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:00:49.085
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 03:00:54.113
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 03:01:04.981
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:05:52.679
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:05:52.693
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:05:52.703
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:06:42.047
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 03:06:47.138
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 03:06:58.001
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:11:11.443
+!MESSAGE 13 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:12:02.463
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:12:10.804
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:12:41.416
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:14:51.957
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:15:12.008
+!MESSAGE 13 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:15:46.966
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:16:37.055
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:17:41.433
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:19:22.055
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:19:59.373
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:21:11.524
+!MESSAGE 4 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-15 03:22:04.370
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:22:05.089
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:22:05.091
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-15 03:22:05.091
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-15 03:22:10.202
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-15 03:22:21.061
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:23:33.334
+!MESSAGE 4 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:24:55.375
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:25:15.660
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:25:34.715
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-15 03:26:13.576
+!MESSAGE 3 files modified in module test
+!SESSION 2013-04-17 00:30:56.413 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product -data /home/imie/formation/dev/IDE/workspace/testJBOSS -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 00:31:43.909
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 00:31:50.113
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 00:32:01.558
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-17 01:12:18.529
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 01:12:18.912
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 01:12:18.913
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 01:12:18.913
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 01:19:37.953
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 01:20:10.046
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 01:38:15.078
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 01:38:15.090
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 01:38:15.090
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-17 16:51:04.917 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /home/imie/formation/dev/IDE/workspace/testJBOSS -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 16:58:21.941
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 16:58:28.445
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 16:58:39.531
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 17:00:15.111
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 17:00:15.122
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 17:00:15.122
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-17 22:41:30.498 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 22:42:35.598
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 22:42:41.895
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 22:42:52.951
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:08:27.020
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:10:28.517
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:10:33.281
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:13:10.945
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:14:09.081
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:19:23.338
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:21:17.590
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:28:30.619
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:28:35.689
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:28:55.821
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:29:12.235
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-17 23:35:43.831
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:35:44.476
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:35:44.490
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:35:44.490
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 23:35:49.543
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 23:36:00.396
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:52:02.496
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:52:13.482
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-17 23:53:19.758
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:53:20.078
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:53:20.079
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:53:20.079
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 23:53:25.138
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 23:53:35.986
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-17 23:54:08.188
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-17 23:54:12.692
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:54:13.397
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2013-04-17 23:54:13.397
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:54:13.402
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-17 23:54:13.402
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-17 23:54:18.431
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-17 23:54:29.622
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 00:02:29.665
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 00:02:35.226
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:02:35.995
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:02:36.002
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:02:36.002
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 00:02:41.045
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 00:02:51.910
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 00:22:49.202
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:22:49.617
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:22:49.617
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:22:49.617
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 00:22:54.650
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 00:23:05.506
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 00:33:34.229
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:33:35.083
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:33:35.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 00:33:35.084
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:27:17.047
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:27:27.994
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 01:30:02.827
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:30:03.556
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:30:03.556
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:30:03.557
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:30:08.615
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:30:19.474
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 01:32:31.669
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:32:32.071
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:32:32.072
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:32:32.072
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:32:37.114
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:32:39.372
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:32:39.372
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:32:39.372
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:33:12.523
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:33:15.507
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:33:15.508
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:33:15.508
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-18 01:34:56.027 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 01:35:22.787
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:35:28.861
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:35:32.086
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:35:32.088
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:35:32.089
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:42:36.624
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:42:47.647
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 01:49:20.306
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:49:20.676
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:49:20.686
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:49:20.686
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:49:34.639
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:49:45.493
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 01:50:57.637
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:50:58.207
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:50:58.208
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:50:58.208
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:51:03.250
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:51:05.946
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:51:05.946
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:51:05.947
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 01:52:01.114
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:52:08.072
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:52:10.836
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:52:10.836
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:52:10.836
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:52:47.989
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:52:58.831
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 01:54:23.073
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:54:23.489
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:54:23.490
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:54:23.492
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:54:28.564
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:54:39.416
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 01:54:52.055
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:54:52.491
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:54:52.491
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 01:54:52.491
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 01:54:57.540
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 01:55:08.390
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 02:57:29.933
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 02:57:31.183
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 02:57:31.614
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 02:57:31.614
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 02:57:31.614
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 02:57:36.684
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 02:57:47.540
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:04:18.608
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:04:58.210
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:06:21.718
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:07:39.637
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 03:07:43.623
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:07:44.034
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:07:44.035
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:07:44.035
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 03:07:49.080
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 03:07:59.942
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:24:15.985
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:25:09.801
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:25:48.693
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:26:36.418
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:26:43.551
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:26:53.888
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 03:27:09.420
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:27:09.808
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:27:09.809
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:27:09.809
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 03:27:14.863
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 03:27:25.734
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:28:27.784
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 03:28:36.641
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-18 03:28:41.515
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:28:42.252
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:28:42.252
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:28:42.252
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 03:28:47.284
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 03:28:59.538
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:29:38.812
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:29:38.843
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 03:29:38.844
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-18 11:04:33.538 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product -data /home/imie/formation/dev/IDE/workspace/testJBOSS -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-18 11:17:03.150
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-18 11:17:12.039
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-18 11:18:02.254
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 13:48:14.790
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 13:48:14.905
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-18 13:48:14.916
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-04-19 00:22:55.990 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 00:24:33.117
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-19 00:24:39.834
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-19 00:24:52.014
+!MESSAGE Server Startup Succeeded
+!SESSION 2013-04-19 02:56:27.099 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 03:25:54.653
+!MESSAGE Module test published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-19 03:26:01.018
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-19 03:26:14.340
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-19 03:39:02.269
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 03:39:03.060
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 03:39:03.067
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 03:39:03.067
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-19 03:39:08.183
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-19 03:39:19.119
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:30:57.118
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:31:51.871
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:32:42.459
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:33:00.706
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:33:17.678
+!MESSAGE 2 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:33:54.098
+!MESSAGE 3 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:34:08.725
+!MESSAGE 1 files modified in module test
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-19 04:34:28.573
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:34:29.506
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:34:29.507
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:34:29.507
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-19 04:34:34.636
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-19 04:34:50.995
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-19 04:44:15.820
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:44:16.472
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:44:16.482
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:44:16.495
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2013-04-19 04:44:16.496
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-19 04:45:19.758
+!MESSAGE Module jeeApplication published without error.
+
+!ENTRY unknown 0 0 2013-04-19 04:45:19.846
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-19 04:45:24.994
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-19 04:45:36.351
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-19 04:53:19.396
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:53:19.956
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:53:19.966
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-19 04:53:19.966
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-06-04 05:15:00.306 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-04 05:21:11.521
+!MESSAGE Module jeeApplication published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-06-04 05:21:24.401
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-06-04 05:22:33.502
+!MESSAGE Server Startup Succeeded

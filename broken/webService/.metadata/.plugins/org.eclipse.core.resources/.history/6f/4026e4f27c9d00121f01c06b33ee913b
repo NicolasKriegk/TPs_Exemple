@@ -1,0 +1,29 @@
+package org.jboss.samples.webservices;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+import org.imie.DTO.InitialServiceBean;
+
+@Path("/serviceInitiale")
+public class HelloWorld {
+
+	@GET()
+	@Produces("text/plain")
+	public List<InitialServiceBean> getBeans() {
+	    List<InitialServiceBean> initialServiceBeans =  new ArrayList<InitialServiceBean>();
+		InitialServiceBean bean1 = new InitialServiceBean();
+		bean1.setValue1("value1");
+		bean1.setValue2("value2");
+		initialServiceBeans.add(bean1);
+		InitialServiceBean bean2 = new InitialServiceBean();
+		bean2.setValue1("value1");
+		bean2.setValue2("value2");
+		initialServiceBeans.add(bean2);
+	    return initialServiceBeans;
+	}
+}

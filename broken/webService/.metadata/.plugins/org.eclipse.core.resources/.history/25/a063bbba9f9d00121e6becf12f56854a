@@ -1,0 +1,10 @@
+package org.imie.DTO;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+
+@XmlRootElement(name="ListOfBeans")
+public class SecondaryServiceRoot {
+	
+
+}

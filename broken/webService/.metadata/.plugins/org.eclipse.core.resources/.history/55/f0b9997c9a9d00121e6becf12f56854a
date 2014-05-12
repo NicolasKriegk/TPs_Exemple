@@ -1,0 +1,9 @@
+package org.imie.DTO;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
+public class SecondServiceBean {
+	private String value;
+	
+}

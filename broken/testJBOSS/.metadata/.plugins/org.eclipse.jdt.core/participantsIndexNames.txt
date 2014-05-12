@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+/home/imie/formation/dev/IDE/workspace/testJBOSS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2414844307.index
+/jeeApplication/src
+/home/imie/formation/dev/IDE/workspace/testJBOSS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3082874910.index
+/test/src

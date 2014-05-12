@@ -1,0 +1,89 @@
+!SESSION 2013-04-05 02:39:28.088 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:43:11.991
+!MESSAGE Module RestTestApplication published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:43:12.033
+!MESSAGE Module InitialeDTO published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-05 02:43:17.922
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-05 02:43:29.401
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:59:07.960
+!MESSAGE 3 files modified in module RestTestApplication
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:59:08.025
+!MESSAGE Module InitialeDTO published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-04-05 02:59:14.480
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-05 02:59:15.197
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-05 02:59:15.199
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-04-05 02:59:15.200
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:59:23.230
+!MESSAGE Module RestTestApplication published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:59:23.282
+!MESSAGE Module InitialeDTO published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:59:38.294
+!MESSAGE Module RestTestApplication published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 02:59:38.357
+!MESSAGE Module InitialeDTO published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-05 02:59:45.655
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-05 02:59:56.728
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 04:41:06.542
+!MESSAGE 1 files modified in module RestTestApplication
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 04:41:06.589
+!MESSAGE Module InitialeDTO published without error.
+!SESSION 2013-04-05 09:22:33.183 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 09:51:57.691
+!MESSAGE Module RestTestApplication published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 09:51:57.822
+!MESSAGE Module InitialeDTO published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-04-05 09:52:09.251
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-04-05 09:53:02.090
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 16:48:02.590
+!MESSAGE 1 files modified in module RestTestApplication
+
+!ENTRY unknown 0 0 2013-04-05 16:48:02.601
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-04-05 16:48:28.208
+!MESSAGE 4 files modified in module RestTestApplication
